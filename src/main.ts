@@ -11,7 +11,8 @@ import { bootstrapApplication } from '@angular/platform-browser';
           <h1 class="title">$CYBERTANK</h1>
           <div class="hero-images">
             <img 
-              src="src/image-2.jpg" 
+              style="border-radius:50%"
+              src="https://pbs.twimg.com/profile_images/1880646812836478976/tdbOaeTb_400x400.jpg" 
               alt="Cybertank" 
               class="hero-image"
             >
