@@ -42,7 +42,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
             revolutionary Mars-ready combat vehicle. Be part of the next evolution in military-grade 
             automotive technology.
           </p>
-          <a href="https://pancakeswap.finance/" target="_blank" class="cta-button">
+          <a href="https://pump.fun/coin/Ch8xtC6uBTzU9Ewg3KpoEktVQ4KDWGuY1j4TLpEZpump" target="_blank" class="cta-button">
             Invest Now
           </a>
         </div>
