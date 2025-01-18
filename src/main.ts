@@ -9,7 +9,7 @@ import { bootstrapApplication } from '@angular/platform-browser';
       <div class="container">
         <div class="hero-content">
           <h1 class="title">$CYBERTANK</h1>
-          <div class="hero-images">
+          <div style="justify-content: center; grid-template-columns: 40% !important" class="hero-images">
             <img 
               style="border: 5px solid orange;
               border-radius: 10%;
@@ -22,18 +22,6 @@ import { bootstrapApplication } from '@angular/platform-browser';
               alt="Cybertank" 
               class="hero-image"
             >
-            <img
-            style="
-              width: 200px;
-              border: 5px solid orange;
-              border-radius: 10%;
-              box-shadow: 0 0 20px orange;
-              animation: glow 1.5s infinite alternate;
-            "
-            src="image-3.jpg"
-            alt="Cybertank Right"
-            class="hero-image"
-          >
           </div>
           <div class="features">
             <div class="feature">
