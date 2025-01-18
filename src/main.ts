@@ -11,11 +11,29 @@ import { bootstrapApplication } from '@angular/platform-browser';
           <h1 class="title">$CYBERTANK</h1>
           <div class="hero-images">
             <img 
-              style="border-radius:50%"
+              style="border: 5px solid orange;
+              border-radius: 10%;
+              box-shadow: 0 0 20px orange;
+              animation: glow 1.5s infinite alternate;
+              display: block;
+              margin-left: auto;
+              margin-right: auto;"
               src="https://pbs.twimg.com/profile_images/1880646812836478976/tdbOaeTb_400x400.jpg" 
               alt="Cybertank" 
               class="hero-image"
             >
+            <img
+            style="
+              width: 200px;
+              border: 5px solid orange;
+              border-radius: 10%;
+              box-shadow: 0 0 20px orange;
+              animation: glow 1.5s infinite alternate;
+            "
+            src="image-3.jpg"
+            alt="Cybertank Right"
+            class="hero-image"
+          >
           </div>
           <div class="features">
             <div class="feature">
